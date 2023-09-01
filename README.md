@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [https://www.frontendmentor.io/solutions/advice-generator-app-1ClX4XyS6r](https://www.frontendmentor.io/solutions/advice-generator-app-1ClX4XyS6r)
+- Live Site URL: [https://josh76543210-fm-advice-generator-app.netlify.app/](https://josh76543210-fm-advice-generator-app.netlify.app/)
 
 ## My process
 
