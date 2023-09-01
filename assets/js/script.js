@@ -18,7 +18,7 @@ adviceBtn.addEventListener("click", getData);
 // Functions
 // get data using fetch api
 function getData() {
-  fetch("https://api.adviceslip.com/advice")
+  fetch("https://api.adviceslip.com/advice", { cache: "no-store" })
     .then((res) => res.json())
     .then((data) => {
       displayData(data);
